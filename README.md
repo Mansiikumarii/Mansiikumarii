@@ -72,13 +72,10 @@
 
 ---
 
-<br clear="both">
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl coding gif" />
+</p>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Mansiikumarii/Mansiikumarii/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
