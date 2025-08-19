@@ -79,4 +79,4 @@
 
 ---
 
-✨ *I may not have solved problems yet, but I can understand and explain code — and now I’m ready to start creating it.* ✨
+✨ *I may not have real solved problems yet, but I can understand and explain code — and now I’m ready to start creating it.* ✨
