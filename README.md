@@ -44,7 +44,11 @@
 
   <!-- Powershell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50" height="50"/>
----
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+</p>
+
 
 ### 📊 GitHub Stats & Activity  
 <div align="center">
