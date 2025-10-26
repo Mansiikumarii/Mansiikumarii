@@ -75,7 +75,6 @@
 👉 Check out all my projects here: [**Repositories**](https://github.com/Mansiikumarii?tab=repositories)  
 
 ---
-
 ### 🌐 Connect With Me  
 <div align="center">
   <a href="mailto:mansi15094@gmail.com">
@@ -86,6 +85,17 @@
   </a>
   <a href="https://github.com/Mansiikumarii">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Added badges -->
+  <a href="https://leetcode.com/u/Mansiikumarii/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mansi1rg2z/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.naukri.com/code360/profile/eb8fc389-f66f-40c8-8dbc-7170bd728a37">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-FF3D00?style=for-the-badge&logo=codingninjas&logoColor=white"/>
   </a>
 </div>
 
