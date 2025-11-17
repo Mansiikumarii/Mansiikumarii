@@ -30,6 +30,7 @@
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
   
   <!-- Tailwind (official SVG) -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
@@ -53,6 +54,7 @@
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </p>
+
 
 ### 📊 GitHub Stats & Activity  
 <div align="center">
