@@ -6,7 +6,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/64/93/31/6493317f1d58e21965b1b845a70d7c5b.gif" alt="Coding Girl"/>
 
 ### ✨ About Me  
-- 🌱 Currently exploring **Data Science, Cloud & Advanced Full-Stack Development**  
+- 🌱 Currently exploring **Data Science & Advanced Full-Stack Development**  
 - 🧩 Love solving **DSA problems** and contributing to **open-source**  
 - 🚀 Interested in **AI, Machine Learning, and Scalable Systems**  
 - 🎯 Goal: To become a **Creative Engineer** building impactful solutions  
