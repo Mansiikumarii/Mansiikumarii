@@ -1,172 +1,249 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║           MANSI KUMARI  ·  GITHUB PROFILE README                ║
+║           Designed for maximum visual impact                     ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1a0533,60:2d1b69,100:7c3aed&height=300&section=header&text=Mansi%20Kumari&fontSize=78&fontColor=f0abfc&fontAlignY=42&desc=%E2%9C%A6%20Full-Stack%20Developer%20%7C%20DSA%20%7C%20Machine%20Learning%20%E2%9C%A6&descColor=c4b5fd&descSize=19&descAlignY=63&animation=twinkling&stroke=7c3aed&strokeWidth=2"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  TYPING  ░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
-
-<!-- Animated waving header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header&animation=fadeIn"/>
-
-<!-- Animated name -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=3000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=MANSI+KUMARI" alt="Mansi Kumari"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Divam+Technologies+%F0%9F%8F%A2;React+%7C+Node.js+%7C+Python+%7C+Cloud;DSA+Grinder+%7C+Open+Source+Contributor;%22I+break+things+just+to+fix+them+better.%22+%F0%9F%94%A5" alt="Subtitle"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansi%20Kumari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-kumari-18b33b246)
-[![Gmail](https://img.shields.io/badge/Gmail-mansi15094-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mansi15094@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Mansiikumarii?label=Followers&style=flat-square&color=00d9ff&logo=github)](https://github.com/Mansiikumarii)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mansiikumarii&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Mansiikumarii)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&height=45&lines=%F0%9F%9A%80+Building+things+that+matter+from+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%9A%94%EF%B8%8F+Sharpening+DSA+on+LeetCode+%C3%97+GFG+every+day;%F0%9F%A7%A0+Exploring+Machine+Learning+%26+Data+Science;%F0%9F%8C%B1+Open+source+contributor+%26+lifelong+learner;%E2%9C%A8+%22Every+great+system+starts+with+one+clean+commit.%22" alt="Typing SVG"/>
 
-</div>
+<br/><br/>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░░░░░░░░░ -->
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
-### `$ whoami`
-
-```bash
-> Mansi Kumari
-  ├── role      : Full-Stack Developer
-  ├── company   : Divam Technologies 🏢
-  ├── location  : India 🇮🇳
-  ├── focus     : React · Flask · DSA · AI
-  ├── commits   : 1,285 contributions & rising
-  └── status    : Building · Shipping · Growing
-```
-
-**What I'm running right now:**
-- 🔧 Building `divamtech/frontend-nom` — production frontend
-- 📝 Contributing to `divamtech/nom-content`
-- 🤖 Exploring **Data Science & Machine Learning**
-- ⚔️ Solving DSA daily on **LeetCode** × **GFG**
-
-> *"Every great system starts with one clean commit."*
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**`// Languages`**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**`// Frameworks & Libraries`**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-**`// Cloud, DB & DevOps`**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Salesforce](https://img.shields.io/badge/Salesforce-0d1117?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
-
-</div>
-
----
-
-## 🚀 Shipped Projects
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  PROJECT                   STACK              DESCRIPTION                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🏢 frontend-nom           React · pnpm       Production frontend @ Divam   │
-│  📝 nom-content            Content · Git      Blog & case study pipeline    │
-│  🛒 Flipkart Clone         HTML · CSS         Pixel-perfect e-commerce UI   │
-│  🤖 Face Detector          Python · ML        Real-time face detection       │
-│  🔐 Login Page UI          HTML · CSS · JS    Modern responsive auth system  │
-│  🌐 Node.js Playground     Node.js            Async · HTTP · Core modules    │
-│  📚 LeetCode × GfG Repo    C++ · SQL          DSA solutions with complexity  │
-│  🔷 OOP in C++             C++                Inheritance, Polymorphism…    │
-│  🗄️  MySQL Scripts          SQL                DDL · DML · DRL operations    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-🔗 **[Browse all 36 repositories →](https://github.com/Mansiikumarii?tab=repositories)**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mansiikumarii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b949e&border_radius=8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansiikumarii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiikumarii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&border_radius=8&langs_count=8" height="145"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansiikumarii&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mansiikumarii&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansi15094@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-kumari-18b33b246)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mansiikumarii)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansi15094@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mansiikumarii/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mansi1rg2z/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD4040?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/eb8fc389-f66f-40c8-8dbc-7170bd728a37)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mansi1rg2z/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mansiikumarii)
+[![CodingNinjas](https://img.shields.io/badge/Coding%20Ninjas-DD4040?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/eb8fc389-f66f-40c8-8dbc-7170bd728a37)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Mansiikumarii&label=👁%20Profile+Views&color=7c3aed&style=flat-square)
+![](https://img.shields.io/github/followers/Mansiikumarii?label=★%20Followers&style=flat-square&color=7c3aed)
+![](https://img.shields.io/badge/Repos-36+-7c3aed?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Commits-1285+-7c3aed?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## 👾 &nbsp;whoami
+
+```typescript
+const mansi: Developer = {
+  name     : "Mansi Kumari",
+  location : "India 🇮🇳",
+  role     : "Full-Stack Developer",
+
+  languages : ["Python","JavaScript","C++","Java","SQL"],
+  frontend  : ["React","Tailwind","Bootstrap","HTML","CSS"],
+  backend   : ["Node.js","Flask","MySQL","REST APIs"],
+  cloud     : ["AWS","GCP"],
+  currently : [
+    "🧠 ML & Data Science",
+    "⚔️  DSA — LeetCode × GFG daily",
+    "🌱 Open source contributions",
+    "☁️  Cloud architecture deep dive",
+  ],
+
+  openTo  : ["collabs","opensource","goodconvos"],
+  mantra  : () => "Ship · Learn · Repeat 🚀",
+};
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" style="border-radius:12px"/>
+
+<br/>
+
+> *"I break things just to fix them better."*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<br/>
+
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-```bash
-while (alive) {
-    eat();
-    sleep();
-    code();       // the important one
-    commit();     // push to prod 🚀
-    repeat();
-}
+<br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,cs,php&theme=dark&perline=7" alt="Languages"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&theme=dark&perline=7" alt="Frontend"/>
+
+<br/><br/>
+
+**Backend · Cloud · Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,aws,gcp,mysql&theme=dark&perline=7" alt="Backend"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark&perline=7" alt="Tools"/>
+
+<br/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<br/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<br/>
+
+<!--
+  Using github-profile-summary-cards (github-profile-summary-cards.vercel.app)
+  This service uses DIFFERENT GitHub API endpoints than github-readme-stats,
+  so it hits a separate rate-limit bucket and is far more reliable.
+-->
+
+<div align="center">
+
+<!-- Full-width contribution timeline -->
+<a href="https://github.com/Mansiikumarii">
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansiikumarii&theme=tokyonight" alt="Contribution Timeline"/>
+</a>
+
+<br/><br/>
+
+<!-- Stats + Language side by side -->
+<a href="https://github.com/Mansiikumarii">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mansiikumarii&theme=tokyonight" alt="Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Mansiikumarii">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansiikumarii&theme=tokyonight&exclude=html,jupyter%20notebook" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<!-- Repos per language + Productive time -->
+<a href="https://github.com/Mansiikumarii">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansiikumarii&theme=tokyonight&exclude=html,jupyter%20notebook" alt="Repos Per Language"/>
+</a>
+&nbsp;
+<a href="https://github.com/Mansiikumarii">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mansiikumarii&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<!-- Activity Graph — ashutosh00710 instance -->
+<div align="center">
+
+<a href="https://github.com/Mansiikumarii">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mansiikumarii&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=f0abfc&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=Mansi%27s+Contribution+Graph" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<br/>
+
+## 🏆 &nbsp;Trophy Cabinet
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Mansiikumarii">
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Mansiikumarii&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Trophies"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<br/>
+
+<div align="center">
+
+```python
+# ════════════════════════════════════════════════════════
+#  mansi.py  ·  runtime: ∞  ·  status: always_building
+# ════════════════════════════════════════════════════════
+
+class Mansi:
+    stack   = ["React", "Node.js", "Flask", "Python", "C++"]
+    traits  = ["problem-solver", "dsa-grinder", "open-source"]
+    open_to = ["collaborations", "open-source", "great-conversations"]
+
+    def run(self):
+        while True:
+            self.build()
+            self.commit()
+            self.grow()
+            print("Ship · Learn · Repeat 🚀")
+
+Mansi().run()
 ```
 
-**Currently shipping production code @ [Divam Technologies](https://github.com/divamtech)**
-*Open to: open source · collaborations · good conversations*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=9999&pause=9999&color=A78BFA50&center=true&vCenter=true&width=520&lines=%23+open+to+%3A+collaborations+%C2%B7+open+source+%C2%B7+great+conversations" alt="footer line"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4f46e5,70:1e1b4b,100:0d0d1a&height=140&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%BE&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn"/>
 
 </div>
